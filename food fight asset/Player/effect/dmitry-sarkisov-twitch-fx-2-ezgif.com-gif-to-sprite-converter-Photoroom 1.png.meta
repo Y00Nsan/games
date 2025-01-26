@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 040eaa19e7e93574db5ad2111daf1c61
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom
+        1_0
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 602
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99ef7fa92f97964889bcbf29914d9aa
+      internalID: -1253966549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom
+        1_1
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 591
+        width: 23
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5359656, y: 0.58534604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b5821d42ab7a34195ced5aff47e812
+      internalID: -209459311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom
+        1_2
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 587
+        width: 40
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5275742, y: 0.7297783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cb0beac92cb3a46b79a17b7fc65691
+      internalID: 1069032597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom
+        1_3
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 588
+        width: 58
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7116089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2ca6fa0fc3e1e4291534c83febaa33
+      internalID: 2116838555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom
+        1_4
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 580
+        width: 47
+        height: 54
+      alignment: 9
+      pivot: {x: 0.25946695, y: 0.6633979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467795b8ba340ac488159ac97146209b
+      internalID: 2079112680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom
+        1_5
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 577
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.70533526, y: 0.79950374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4297e0d08744d4190b949e266def5b
+      internalID: -1666905009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom
+        1_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 447
+        width: 38
+        height: 51
+      alignment: 9
+      pivot: {x: 0.28503108, y: 0.8559385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e3d992a33543a41b7a964e37433ded
+      internalID: 1075647267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom
+        1_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 442
+        width: 56
+        height: 56
+      alignment: 9
+      pivot: {x: 0.17469501, y: 0.60591346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5891450e12eb6b24aa4902efcc3e02a9
+      internalID: -651443186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom
+        1_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 444
+        width: 57
+        height: 56
+      alignment: 9
+      pivot: {x: 0.8047333, y: 0.8177403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deeeffd903c32047b16b0b9d836e448
+      internalID: -1155228355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom
+        1_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 442
+        width: 28
+        height: 54
+      alignment: 9
+      pivot: {x: 0.2427826, y: 0.86873543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895505d6923d80c4a8fbd6a63bbc18f1
+      internalID: 2064243032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom
+        1_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 440
+        width: 63
+        height: 47
+      alignment: 9
+      pivot: {x: 0.11669486, y: 0.68027836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e923093f558b2454b803dc36723ecb2e
+      internalID: -498864341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom
+        1_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 445
+        width: 59
+        height: 53
+      alignment: 9
+      pivot: {x: 0.8446676, y: 0.8597055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b186621616dce5b45846cde3d538076e
+      internalID: 1488295706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom
+        1_15
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 434
+        width: 66
+        height: 47
+      alignment: 9
+      pivot: {x: 0.08247514, y: 0.8355875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d06b9032110c74b8afb6a5ba6b224c
+      internalID: 1224423101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom
+        1_17
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 446
+        width: 59
+        height: 25
+      alignment: 9
+      pivot: {x: 0.96407616, y: 1.1282666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499fc05739da5fe48915d3ce201eaef9
+      internalID: -1298648299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_0: -1253966549
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_1: -209459311
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_10: -1829504331
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_11: -498864341
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_12: 1488295706
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_13: 644578878
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_14: 1509313445
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_15: 1224423101
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_16: -712214042
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_17: -1298648299
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_18: 284629020
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_2: 1069032597
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_3: 2116838555
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_4: 2079112680
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_5: -1666905009
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_6: 1075647267
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_7: -651443186
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_8: -1155228355
+      dmitry-sarkisov-twitch-fx-2-ezgif.com-gif-to-sprite-converter-Photoroom 1_9: 2064243032
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
